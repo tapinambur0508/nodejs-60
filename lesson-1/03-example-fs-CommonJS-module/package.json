@@ -1,0 +1,17 @@
+{
+  "name": "03-example-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "star": "node index.js",
+    "dev": "nodemon index.js",
+    "start:watch": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
